@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae0a2dba-c7b3-4c68-a09e-ddb610c8e132" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aZnhM7vBdliJmOqbGDqIXGZdGu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flutter/testapp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="testjava" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae0a2dba-c7b3-4c68-a09e-ddb610c8e132" name="Default Changelist" comment="" />
+      <created>1586952101625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586952101625</updated>
+      <workItem from="1586952106415" duration="6210000" />
+      <workItem from="1587388848961" duration="13675000" />
+      <workItem from="1588420039746" duration="30000" />
+      <workItem from="1589724996203" duration="1765000" />
+      <workItem from="1589809246274" duration="1609000" />
+      <workItem from="1589810878208" duration="10108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="136" width="1037" height="835" key="#Project_Structure" timestamp="1589881858931">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="455" y="136" width="1037" height="835" key="#Project_Structure/0.31.1920.1049@0.31.1920.1049" timestamp="1589881858931" />
+    <state x="721" y="167" width="468" height="773" key="#com.intellij.ide.util.MemberChooser" timestamp="1589904446683">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="721" y="167" width="468" height="773" key="#com.intellij.ide.util.MemberChooser/0.31.1920.1049@0.31.1920.1049" timestamp="1589904446683" />
+    <state x="147" y="245" width="655" height="617" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587391018116">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="147" y="245" width="655" height="617" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.31.1920.1049@0.31.1920.1049" timestamp="1587391018116" />
+    <state x="690" y="256" width="530" height="594" key="FileChooserDialogImpl" timestamp="1588420072715">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="690" y="256" width="530" height="594" key="FileChooserDialogImpl/0.31.1920.1049@0.31.1920.1049" timestamp="1588420072715" />
+    <state width="1862" height="246" key="GridCell.Tab.0.bottom" timestamp="1589905001631">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1862" height="246" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1589905001631" />
+    <state width="1862" height="246" key="GridCell.Tab.0.center" timestamp="1589905001629">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1862" height="246" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1589905001629" />
+    <state width="1862" height="246" key="GridCell.Tab.0.left" timestamp="1589905001629">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1862" height="246" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1589905001629" />
+    <state width="1862" height="246" key="GridCell.Tab.0.right" timestamp="1589905001630">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1862" height="246" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1589905001630" />
+    <state x="318" y="103" key="SettingsEditor" timestamp="1589810848741">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="318" y="103" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1589810848741" />
+    <state x="526" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588420040034">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="526" y="344" key="com.intellij.ide.util.TipDialog/0.31.1920.1049@0.31.1920.1049" timestamp="1588420040034" />
+    <state x="513" y="431" width="873" height="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589881905696">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="513" y="431" width="873" height="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.31.1920.1049@0.31.1920.1049" timestamp="1589881905696" />
+  </component>
+</project>
